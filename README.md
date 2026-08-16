@@ -120,7 +120,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArifDestianto/ArifDestianto/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Arif-AD/Arif-AD/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
