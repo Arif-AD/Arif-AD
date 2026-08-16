@@ -43,7 +43,7 @@
 #### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=dart,js,php" />
 </p>
 
 #### Frontend & Mobile
