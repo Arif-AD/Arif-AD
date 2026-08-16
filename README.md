@@ -111,7 +111,7 @@ Super App berbasis digital yang mengintegrasikan circular economy, fair food sup
 
 <p>
   <a href="https://github.com/Arif-AD/SinteraApp_IT-FEST-2026">
-    <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Project-166534?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -123,7 +123,7 @@ Aplikasi untuk membantu pengelolaan dan pencatatan keuangan.
 
 <p>
   <a href="https://github.com/Arif-AD/Pilot_Finance">
-    <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Project-1E3A8A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -135,23 +135,8 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 
 <p>
   <a href="https://github.com/Arif-AD/Pilot_Repair">
-    <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Project-991B1B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Arif-AD&theme=tokyonight&hide_border=true&hide_longest_streak=true"
-    height="165"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arif-AD&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
 </p>
 
 ---
