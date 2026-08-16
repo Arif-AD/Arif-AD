@@ -161,8 +161,13 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1325gUdbpNHaawh0NwFj0OF8La7l3KN9O">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0B1634?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-0B1634?style=for-the-badge" />
   </a>
+
+  <a href="https://www.arifdestianto.my.id">
+    <img src="https://img.shields.io/badge/My%20Website-Visit%20Website-1D4ED8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
   <a href="https://www.linkedin.com/in/arif-destianto">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
