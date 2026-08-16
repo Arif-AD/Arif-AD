@@ -45,33 +45,136 @@
 
 #### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,js,php" />
-</p>
+### 🛠️ Tech Stack
+
+#### Languages
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=dart" width="40" /><br>
+      <strong>Dart</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=js" width="40" /><br>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=php" width="40" /><br>
+      <strong>PHP</strong>
+    </td>
+  </tr>
+</table>
 
 #### Frontend & Mobile
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,html,css" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" /><br>
+      <strong>Flutter</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=react" width="40" /><br>
+      <strong>React</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=html" width="40" /><br>
+      <strong>HTML</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=css" width="40" /><br>
+      <strong>CSS</strong>
+    </td>
+  </tr>
+</table>
 
 #### Backend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" /><br>
+      <strong>Laravel</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=php" width="40" /><br>
+      <strong>PHP</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=dart" width="40" /><br>
+      <strong>Dart Frog</strong>
+    </td>
+  </tr>
+</table>
 
 #### Database & Services
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" /><br>
+      <strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>
+      <strong>MySQL</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br>
+      <strong>Firebase</strong>
+    </td>
+  </tr>
+</table>
 
 #### Tools & Platforms
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,docker,vercel,postman,railway" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=git" width="40" /><br>
+      <strong>Git</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=github" width="40" /><br>
+      <strong>GitHub</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>
+      <strong>VS Code</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" /><br>
+      <strong>Android Studio</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" /><br>
+      <strong>Figma</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>
+      <strong>Postman</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" /><br>
+      <strong>Docker</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" /><br>
+      <strong>Vercel</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=railway" width="40" /><br>
+      <strong>Railway</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
