@@ -43,138 +43,53 @@
 
 ### 🛠️ Tech Stack
 
-#### Languages
-
 ### 🛠️ Tech Stack
 
 #### Languages
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=dart" width="40" /><br>
-      <strong>Dart</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=js" width="40" /><br>
-      <strong>JavaScript</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=php" width="40" /><br>
-      <strong>PHP</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
 #### Frontend & Mobile
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=flutter" width="40" /><br>
-      <strong>Flutter</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=react" width="40" /><br>
-      <strong>React</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=html" width="40" /><br>
-      <strong>HTML</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=css" width="40" /><br>
-      <strong>CSS</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 #### Backend
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=laravel" width="40" /><br>
-      <strong>Laravel</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=php" width="40" /><br>
-      <strong>PHP</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=dart" width="40" /><br>
-      <strong>Dart Frog</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart_Frog-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
 #### Database & Services
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" /><br>
-      <strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>
-      <strong>MySQL</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br>
-      <strong>Firebase</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 #### Tools & Platforms
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=git" width="40" /><br>
-      <strong>Git</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=github" width="40" /><br>
-      <strong>GitHub</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>
-      <strong>VS Code</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" /><br>
-      <strong>Android Studio</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" /><br>
-      <strong>Figma</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>
-      <strong>Postman</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" /><br>
-      <strong>Docker</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=vercel" width="40" /><br>
-      <strong>Vercel</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=railway" width="40" /><br>
-      <strong>Railway</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
 
 ---
 
