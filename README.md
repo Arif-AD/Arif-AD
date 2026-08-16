@@ -6,9 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+%26+Mobile+Developer;Flutter+%7C+Laravel+%7C+PostgreSQL;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<!-- Wave animation header -->
+<!-- Profile Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
+<p align="center">
+  <img
+    src="./.github/image/sampul.png"
+    width="100%"
+    alt="Arif Destianto Profile Banner"
+  />
+</p>
 
 <p align="center">
   <a href="https://www.arifdestianto.my.id" target="_blank">
