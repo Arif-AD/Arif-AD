@@ -142,17 +142,6 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
   <img src="./github-metrics.svg" alt="isometric contribution calendar" width="100%" />
 </p>
 
-> 🔧 Butuh setup GitHub Action `lowlighter/metrics` — lihat instruksi di bawah.
-
----
-
-<h3>🎧 Spotify Now Playing</h3>
-
-<p align="center">
-  <img src="https://novatorem-arif-ad.vercel.app/api/spotify" alt="now playing spotify" />
-</p>
-
-> 🔧 Butuh deploy instance Spotify GitHub Profile sendiri — lihat instruksi di bawah.
 
 ---
 
@@ -169,8 +158,6 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-> 🔧 Bagian ini terisi otomatis setelah setup WakaTime — lihat instruksi di bawah.
-
 ---
 
 <h3>🌍 Visitor World Map</h3>
@@ -178,8 +165,6 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 <p align="center">
   <img src="//clustrmaps.com/map_v2.png?d=YOUR_CLUSTRMAPS_ID&cl=ffffff&w=a" alt="visitor world map" />
 </p>
-
-> 🔧 Butuh daftar gratis di clustrmaps.com — lihat instruksi di bawah.
 
 ---
 
