@@ -26,15 +26,15 @@
 
 ### 👨‍💻 Tentang Saya
 
-* 🎓 Lulusan **S1 Informatika**
-* 💻 Fokus pada **Full-Stack Web & Mobile Development**
-* 📱 Berpengalaman membangun aplikasi mobile menggunakan **Flutter & Dart**
-* 🌐 Mengembangkan backend dan REST API menggunakan **Laravel, Dart Frog, PHP**
-* 🗄️ Berpengalaman dengan **PostgreSQL, MySQL, dan Firebase**
-* 🚀 Terbiasa membangun aplikasi dari **frontend hingga backend secara end-to-end**
-* 🔧 Memiliki pengalaman sebagai **Full-Stack Developer & Business Owner** melalui Pilot Repair
-* 🌱 Saat ini terus memperdalam **JavaScript, React, Laravel, dan modern web development**
-* 🤝 Terbuka untuk kesempatan **kerja, internship, freelance, dan kolaborasi project**
+* Lulusan **S1 Informatika**
+* Fokus pada **Full-Stack Web & Mobile Development**
+* Berpengalaman membangun aplikasi mobile menggunakan **Flutter & Dart**
+* Mengembangkan backend dan REST API menggunakan **Laravel, Dart Frog, PHP**
+* Berpengalaman dengan **PostgreSQL, MySQL, dan Firebase**
+* Terbiasa membangun aplikasi dari **frontend hingga backend secara end-to-end**
+* Memiliki pengalaman sebagai **Full-Stack Developer & Business Owner** melalui Pilot Repair
+* Saat ini terus memperdalam **JavaScript, React, Laravel, dan modern web development**
+* Terbuka untuk kesempatan **kerja, internship, freelance, dan kolaborasi project**
 
 ---
 
@@ -103,16 +103,14 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArifDestianto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifDestianto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifDestianto&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArifDestianto&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Arif-AD&theme=tokyonight&hide_border=true&hide_longest_streak=true"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arif-AD&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
@@ -120,7 +118,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArifDestianto/ArifDestianto/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Arif-AD/Arif-AD/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
