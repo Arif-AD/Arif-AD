@@ -70,7 +70,7 @@
 #### Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,docker,vercel,postman,railway" />
 </p>
 
 ---
