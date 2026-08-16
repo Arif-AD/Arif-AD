@@ -107,7 +107,10 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-AD&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arif-AD&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
