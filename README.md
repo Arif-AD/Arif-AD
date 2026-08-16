@@ -30,7 +30,7 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+👨‍💻 Tentang Saya
 
 * Lulusan **S1 Informatika**
 * Fokus pada **Full-Stack Web & Mobile Development**
@@ -41,9 +41,7 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
 #### Languages
 
@@ -93,7 +91,7 @@
 
 ---
 
-### 🚀 Featured Projects
+🚀 Featured Projects
 
 #### 🛒 LarisManis
 
@@ -121,7 +119,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img
@@ -136,7 +134,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 
 ---
 
-### 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arif-AD/Arif-AD/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -144,7 +142,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 
 ---
 
-### 📈 Aktivitas Terbaru
+📈 Aktivitas Terbaru
 
 <!--START_SECTION:activity-->
 
@@ -152,7 +150,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 
 ---
 
-### 📫 Let's Connect
+📫 Let's Connect
 
 <p align="center">
   <a href="https://www.arifdestianto.my.id">
