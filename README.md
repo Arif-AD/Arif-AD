@@ -34,12 +34,9 @@
 
 * Lulusan **S1 Informatika**
 * Fokus pada **Full-Stack Web & Mobile Development**
-* Berpengalaman membangun aplikasi mobile menggunakan **Flutter & Dart**
-* Mengembangkan backend dan REST API menggunakan **Laravel, Dart Frog, PHP**
-* Berpengalaman dengan **PostgreSQL, MySQL, dan Firebase**
 * Terbiasa membangun aplikasi dari **frontend hingga backend secara end-to-end**
 * Memiliki pengalaman sebagai **Full-Stack Developer & Business Owner** melalui Pilot Repair
-* Saat ini terus memperdalam **JavaScript, React, Laravel, dan modern web development**
+* Saat ini terus memperdalam **JavaScript, Fluter, React, Laravel, dan modern web development**
 * Terbuka untuk kesempatan **kerja, internship, freelance, dan kolaborasi project**
 
 ---
