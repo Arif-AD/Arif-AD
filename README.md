@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/arif-destianto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mailto:arifdestianto937@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
