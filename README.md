@@ -20,7 +20,7 @@
   <a href="https://www.arifdestianto.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0B1634?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arifdestianto" target="_blank">
+  <a href="https://www.linkedin.com/in/arif-destianto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:emailkamu@gmail.com">
@@ -143,7 +143,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
   <a href="https://www.arifdestianto.my.id">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0B1634?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/arifdestianto">
+  <a href="https://www.linkedin.com/in/arif-destianto">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
