@@ -99,11 +99,21 @@ Aplikasi mobile untuk membantu pengelolaan bisnis dan operasional toko.
 
 **Tech:** Flutter · Laravel · PostgreSQL
 
+<p>
+  <img src="https://img.shields.io/badge/🚧%20In%20Progress-F59E0B?style=for-the-badge" />
+</p>
+
 #### ♻️ Sintera
 
 Super App berbasis digital yang mengintegrasikan circular economy, fair food supply chain, dan pengelolaan sampah berbasis komunitas.
 
 **Tech:** Flutter · Laravel
+
+<p>
+  <a href="https://github.com/Arif-AD/SinteraApp_IT-FEST-2026">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 #### 💰 Pilot Finance
 
@@ -111,11 +121,23 @@ Aplikasi untuk membantu pengelolaan dan pencatatan keuangan.
 
 **Tech:** Flutter · Dart Frog · PostgreSQL
 
+<p>
+  <a href="https://github.com/Arif-AD/Pilot_Finance">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 #### 🔧 Pilot Repair
 
 Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perangkat.
 
 **Tech:** Flutter · Dart Frog · PostgreSQL
+
+<p>
+  <a href="https://github.com/Arif-AD/Pilot_Repair">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
