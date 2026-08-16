@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | Web & Mobile Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+%26+Mobile+Developer;Flutter+%7C+Laravel+%7C+PostgreSQL;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+%26+Mobile+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <!-- Profile Banner -->
