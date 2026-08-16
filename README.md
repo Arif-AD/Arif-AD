@@ -7,8 +7,13 @@
 </p>
 
 <!-- Profile Banner -->
+
 <p align="center">
-  <img src="./.github/image/sampul.png" width="100%" alt="Arif Destianto Profile Banner" />
+  <img
+    src="./.github/image/sampul.png"
+    width="100%"
+    alt="Arif Destianto Profile Banner"
+  />
 </p>
 
 <p align="center">
@@ -31,7 +36,7 @@
 * Fokus pada **Full-Stack Web & Mobile Development**
 * Terbiasa membangun aplikasi dari **frontend hingga backend secara end-to-end**
 * Memiliki pengalaman sebagai **Full-Stack Developer & Business Owner** melalui Pilot Repair
-* Saat ini terus memperdalam **JavaScript, Flutter, React, Laravel, dan modern web development**
+* Saat ini terus memperdalam **JavaScript, Fluter, React, Laravel, dan modern web development**
 * Terbuka untuk kesempatan **kerja, internship, freelance, dan kolaborasi project**
 
 ---
@@ -136,34 +141,10 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 
 ---
 
-<h3>🗓️ Isometric Contribution Calendar</h3>
+<h3>🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="isometric contribution calendar" width="100%" />
-</p>
-
-
----
-
-<h3>💬 Random Dev Quote</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
-</p>
-
----
-
-<h3>⏱️ WakaTime Coding Stats</h3>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<h3>🌍 Visitor World Map</h3>
-
-<p align="center">
-  <img src="//clustrmaps.com/map_v2.png?d=YOUR_CLUSTRMAPS_ID&cl=ffffff&w=a" alt="visitor world map" />
+  <img src="https://raw.githubusercontent.com/Arif-AD/Arif-AD/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -171,6 +152,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 <h3>📈 Aktivitas Terbaru</h3>
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ---
@@ -181,9 +163,11 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
   <a href="https://drive.google.com/drive/folders/1325gUdbpNHaawh0NwFj0OF8La7l3KN9O">
     <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-0B1634?style=for-the-badge" />
   </a>
+
   <a href="https://www.arifdestianto.my.id">
     <img src="https://img.shields.io/badge/My%20Website-Visit%20Website-1D4ED8?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/arif-destianto">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
