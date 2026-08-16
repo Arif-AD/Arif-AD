@@ -103,7 +103,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArifDestianto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arif-AD&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifDestianto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
