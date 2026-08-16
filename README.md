@@ -103,11 +103,11 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&hide_longest_streak=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arif-AD&theme=tokyonight&hide_border=true&hide_longest_streak=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-AD&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
