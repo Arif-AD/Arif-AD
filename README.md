@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Saya Arif Destianto</h1>
+<h1 align="center">Hi 👋, I'm Arif Destianto</h1>
 
 <h3 align="center">Full-Stack Developer | Web & Mobile Developer</h3>
 
@@ -30,14 +30,14 @@
 
 ---
 
-<h3>👨‍💻 Tentang Saya</h3>
+<h3>👨‍💻 About Me</h3>
 
-* Lulusan **S1 Informatika**
-* Fokus pada **Full-Stack Web & Mobile Development**
-* Terbiasa membangun aplikasi dari **frontend hingga backend secara end-to-end**
-* Memiliki pengalaman sebagai **Full-Stack Developer & Business Owner** melalui Pilot Repair
-* Saat ini terus memperdalam **JavaScript, Fluter, React, Laravel, dan modern web development**
-* Terbuka untuk kesempatan **kerja, internship, freelance, dan kolaborasi project**
+* **S1 Informatics** graduate
+* Focused on **Full-Stack Web & Mobile Development**
+* Experienced in building applications **end-to-end, from frontend to backend**
+* Experienced as a **Full-Stack Developer & Business Owner** through Pilot Repair
+* Currently deepening my skills in **JavaScript, Flutter, React, Laravel, and modern web development**
+* Open to opportunities in **employment, internships, freelance projects, and collaborations**
 
 ---
 
@@ -95,7 +95,7 @@ Tools & Platforms
 
 #### 🛒 LarisManis
 
-Aplikasi mobile untuk membantu pengelolaan bisnis dan operasional toko.
+Mobile application designed to help manage business operations and store management.
 
 **Tech:** Flutter · Laravel · PostgreSQL
 
@@ -105,7 +105,7 @@ Aplikasi mobile untuk membantu pengelolaan bisnis dan operasional toko.
 
 #### ♻️ Sintera
 
-Super App berbasis digital yang mengintegrasikan circular economy, fair food supply chain, dan pengelolaan sampah berbasis komunitas.
+A digital Super App integrating the circular economy, fair food supply chain, and community-based waste management.
 
 **Tech:** Flutter · Laravel
 
@@ -117,7 +117,7 @@ Super App berbasis digital yang mengintegrasikan circular economy, fair food sup
 
 #### 💰 Pilot Finance
 
-Aplikasi untuk membantu pengelolaan dan pencatatan keuangan.
+An application designed to help manage and track personal finances.
 
 **Tech:** Flutter · Dart Frog · PostgreSQL
 
@@ -129,7 +129,7 @@ Aplikasi untuk membantu pengelolaan dan pencatatan keuangan.
 
 #### 🔧 Pilot Repair
 
-Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perangkat.
+A platform and supporting system for a smartphone repair service and device sales business.
 
 **Tech:** Flutter · Dart Frog · PostgreSQL
 
@@ -149,7 +149,7 @@ Platform dan sistem pendukung bisnis jasa servis smartphone dan jual-beli perang
 
 ---
 
-<h3>📈 Aktivitas Terbaru</h3>
+<h3>📈 Recent Activity</h3>
 
 <!--START_SECTION:activity-->
 
