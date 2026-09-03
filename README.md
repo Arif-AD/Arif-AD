@@ -103,6 +103,18 @@ Mobile application designed to help manage business operations and store managem
   <img src="https://img.shields.io/badge/🚧%20In%20Progress-F59E0B?style=for-the-badge" />
 </p>
 
+#### 💼 Web Accounting Management System
+
+A web-based accounting management system for managing chart of accounts, journal entries, approval workflows, file uploads, and financial reports.
+
+**Tech:** Laravel · React · TypeScript · Inertia.js · Tailwind CSS · SQLite
+
+<p>
+  <a href="https://github.com/Arif-AD/AccountingManagementSystem">
+    <img src="https://img.shields.io/badge/View%20Project-166534?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 #### ♻️ Sintera
 
 A digital Super App integrating the circular economy, fair food supply chain, and community-based waste management.
